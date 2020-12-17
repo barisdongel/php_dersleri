@@ -2,21 +2,21 @@
 <html>
 <head>
 	<style>
-		table {
-			font-family: arial, sans-serif;
-			border-collapse: collapse;
-			width: 100%;
-		}
+	table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+	}
 
-		td, th {
-			border: 1px solid #dddddd;
-			text-align: left;
-			padding: 8px;
-		}
+	td, th {
+		border: 1px solid #dddddd;
+		text-align: left;
+		padding: 8px;
+	}
 
-		tr:nth-child(even) {
-			background-color: #dddddd;
-		}
+	tr:nth-child(even) {
+		background-color: #dddddd;
+	}
 	</style>
 </head>
 <body>
@@ -43,6 +43,18 @@
 		<tr>
 			<td><a href="icicediziler.php" target="_blank">icicediziler.php</a></td>
 			<td>icicediziler</td>
+		</tr>
+		<tr>
+			<td><a href="sabit-degiskenlerde-diziler.php" target="_blank">sabit-degiskenlerde-diziler.php</a></td>
+			<td>sabit-degiskenlerde-diziler</td>
+		</tr>
+		<tr>
+			<td><a href="for.php" target="_blank">for.php</a></td>
+			<td>for döngüsü</td>
+		</tr>
+		<tr>
+			<td><a href="foreach.php" target="_blank">foreach.php</a></td>
+			<td>foreach döngüsü</td>
 		</tr>
 	</table>
 
